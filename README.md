@@ -1,7 +1,3 @@
-Here's a README file template for your repository [Learnpython.org](https://github.com/Md-Emon-Hasan/Learnpython.org/tree/master):
-
----
-
 # Learnpython.org
 
 Welcome to **Learnpython.org** repository! This repository hosts a collection of Python tutorials and examples aimed at helping learners of all levels master Python programming. Whether you're a beginner or looking to enhance your Python skills, this repository provides a structured learning path with practical examples and exercises.
